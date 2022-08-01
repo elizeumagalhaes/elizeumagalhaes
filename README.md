@@ -37,7 +37,7 @@ Want to know more about me? <a href="https://elizeumagalhaesp.web.app/" target="
   
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="40" align="center"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="40" align="center"/>
