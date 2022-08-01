@@ -2,7 +2,7 @@
 
 My name is Elizeu Magalhães and I'm from Brazil 🇧🇷. I work as Software Developer Apprentice at <a href="https://github.com/bosch" target="_blank">Robert Bosch</a> and I currently study Systems Development at SENAI School. I'm passionate about how technology can simplify our daily lives and I hope to use it to make the world a better place to live.
 
-Want to know more about me? <a href="elizeumagalhaesp.web.app" target="_blank">Check out my portfolio.</a>
+Want to know more about me? <a href="https://elizeumagalhaesp.web.app/" target="_blank">Check out my portfolio.</a>
 
 🌎 Find me on
 
