@@ -4,7 +4,7 @@ My name is Elizeu Magalhães and I'm from Brazil 🇧🇷. I work as Software De
 
 Want to know more about me? <a href="https://elizeumagalhaesp.web.app/" target="_blank">Check out my portfolio.</a>
 
-🌎 Find me on
+🌎 Contact me on
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&link=elizeumagg@gmail.com)](mailto:elizeumagg@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizeumagalhaes)](https://www.linkedin.com/in/elizeumagalhaes)
