@@ -20,7 +20,7 @@ Want to know more about me? <a href="https://elizeumagalhaesp.web.app/" target="
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeumagalhaes&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
-## 👓 Skills
+## 🤹‍♂️ Skills
 
 <div style="display: inline_block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="40" align="center"/></a>
