@@ -28,6 +28,7 @@ Want to know more about me? <a href="https://elizeumagalhaesp.web.app/" target="
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="40" align="center"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="40" align="center"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="45" height="40" align="center"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="40" align="center"/>
 </div>
 
 <br>
@@ -36,7 +37,6 @@ Want to know more about me? <a href="https://elizeumagalhaesp.web.app/" target="
 <br>
   
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="40" align="center"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="40" align="center"/>
